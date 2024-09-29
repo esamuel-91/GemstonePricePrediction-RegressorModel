@@ -2,7 +2,7 @@
 
 ### created a environment
 ```
-conda create -p venv python==3.8
+conda create -p venv python==3.9 -c conda-forge
 
 conda activate venv/
 ```
